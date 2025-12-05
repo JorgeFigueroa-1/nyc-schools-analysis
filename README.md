@@ -21,6 +21,7 @@ Each subfolder contains its own `README.md` with task-specific details and resul
 
 ---
 
+```markdown
 ## 📂 Repository Structure
 
 ```text
