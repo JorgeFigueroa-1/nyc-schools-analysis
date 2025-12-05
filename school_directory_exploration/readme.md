@@ -1,4 +1,4 @@
-# 🐍 Day 2 – Python Data Exploration
+# 🐍 Python Data Exploration
 
 Welcome to **Day 2**! Today’s task will give you hands-on practice with Python and Pandas, focusing on basic data cleaning, grouping, filtering, and visualization using a real-world dataset.
 
