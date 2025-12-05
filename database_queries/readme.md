@@ -1,4 +1,4 @@
-# 🧠 Day 3 – SQL via Python: NYC School Data Exploration
+# 🧠 SQL via Python: NYC School Data Exploration
 
 Welcome to **Day 3**! Today, you’ll learn to run SQL queries from within Python — a powerful combo for analysis, automation, and real-world workflows at Webeet.
 
