@@ -24,12 +24,12 @@ Each subfolder contains its own `README.md` with task-specific details and resul
 ## 📂 Repository Structure
 
    ```text
-   nyc-schools-analysis/
-   ├── incident_analysis/
-   ├── school_directory_exploration/
-   ├── database_queries/
-   └── database_population/
-   ´´´
+    nyc-schools-analysis/
+    ├── incident_analysis/
+    ├── school_directory_exploration/
+    ├── database_queries/
+    └── database_population/
+
 
 - `incident_analysis/`  
   Exploratory analysis of school incident data.  
