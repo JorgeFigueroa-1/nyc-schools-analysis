@@ -1,4 +1,4 @@
-Day 1 – School Incident Analysis
+School Incident Analysis
 
 🔗 [My Google Sheet] https://docs.google.com/spreadsheets/d/1kGlLEjQnQ3mn847e9ezfw10Dqh-i7acLwoFoQlESDMM/edit?usp=sharing
 
