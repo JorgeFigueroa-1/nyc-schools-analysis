@@ -23,7 +23,7 @@ Each subfolder contains its own `README.md` with task-specific details and resul
 
 ## 📂 Repository Structure
 
-   ```text
+    ```text
     nyc-schools-analysis/
     ├── incident_analysis/
     ├── school_directory_exploration/
